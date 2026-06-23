@@ -31,6 +31,7 @@ Hi, I am **Hengzhe Zhang**. I am currently a Postdoctoral Research Fellow in Art
 # 🔥 News
 
 - *2026.06*: &nbsp;One ICML'26 paper on contrastive symbolic regression has been accepted.
+- *2026.06*: &nbsp;Two PPSN'26 papers on symbolic regression and genetic programming have been accepted.
 - *2026.02*: &nbsp;One AAAI'26 paper on pathology VLMs has been accepted (co-first author).
 - *2025.09*: &nbsp;Started as Postdoctoral Research Fellow at Victoria University of Wellington.
 - *2025.05*: &nbsp;One ICLR'25 paper has been accepted as **Spotlight** (RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression).
@@ -48,6 +49,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **Selected Publications**
 
 - `ICML'26` Contrastive Symbolic Regression: Aligned Representations, Adaptive Prediction, and Diverse Ensembles, **Hengzhe Zhang**, et al.
+- `PPSN'26` Adaptive Protection for Evolutionary Feature Construction in Symbolic Regression with Application to Credit Classification, **Hengzhe Zhang**, Qi Chen, Bing Xue, Lean Yu, Wolfgang Banzhaf, Mengjie Zhang **(CORE A)**
+- `PPSN'26` Benchmarking Zero-Shot LLM-Generated Parent Selection in Genetic Programming for Symbolic Regression, **Hengzhe Zhang**, Qi Chen, Bing Xue, Wolfgang Banzhaf, Mengjie Zhang **(CORE A)**
 - `ICLR'25 Spotlight` [RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression](https://openreview.net/), **Hengzhe Zhang**, et al.
 - `AAAI'26` Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning, Wenchuan Zhang, Jingru Guo, **Hengzhe Zhang** (co-first author), et al.
 - `IEEE TEVC'25` LAS-GP: Harnessing Large Semantic Libraries for Evolutionary Feature Construction in Symbolic Regression, **Hengzhe Zhang**, et al. **(ABS/AJG 4, IF: 12)**
@@ -61,10 +64,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Refereed Journal Articles**
 
+- **Hengzhe Zhang**, et al. "LLM-Meta-SR: In-Context Learning for Evolving Selection Operators in Symbolic Regression." *IEEE Transactions on Evolutionary Computation*, 2026. **(IF: 12, ABS/AJG 4)**
 - **Hengzhe Zhang**, et al. "LAS-GP: Harnessing Large Semantic Libraries for Evolutionary Feature Construction in Symbolic Regression." *IEEE Transactions on Evolutionary Computation*, 2025. **(IF: 12, ABS/AJG 4)**
 - **Hengzhe Zhang**, et al. "Enhancing Generalization in Evolutionary Feature Construction for Symbolic Regression through Vicinal Jensen Gap Minimization." *IEEE Transactions on Evolutionary Computation*, 2025. **(IF: 12, ABS/AJG 4)**
 - Hongbo Zhao, **Hengzhe Zhang**, et al. "SRLinear: Lightweight Long-Term Time Series Forecasting via Symbolic Regression." *IEEE Transactions on Artificial Intelligence*, 2025.
-- **Hengzhe Zhang**, et al. "Adaptive complexity knee point selection in multi-objective genetic programming for improving generalization of evolutionary feature construction in regression." *Genetic Programming and Evolvable Machines*, 26.2 (2025): 28. **(IF: 1.7)**
 - **Hengzhe Zhang**, et al. "Modular multi-tree genetic programming for evolutionary feature construction for regression." *IEEE Transactions on Evolutionary Computation*, 2024. **(IF: 12, ABS/AJG 4)**
 - **Hengzhe Zhang**, et al. "A semantic-based hoist mutation operator for evolutionary feature construction in regression." *IEEE Transactions on Evolutionary Computation*, 2024. **(IF: 12, ABS/AJG 4)**
 - **Hengzhe Zhang**, et al. "A geometric semantic macro-crossover operator for evolutionary feature construction in regression." *Genetic Programming and Evolvable Machines*, 25.1 (2024): 2. **(IF: 1.7)**
@@ -79,8 +82,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 - **Hengzhe Zhang**, et al. "Contrastive Symbolic Regression: Aligned Representations, Adaptive Prediction, and Diverse Ensembles." *International Conference on Machine Learning (ICML)*, 2026. **(CORE A\*)**
 - Wenchuan Zhang, Jingru Guo, **Hengzhe Zhang** (co-first author), et al. "Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning." *AAAI*, 2026. **(CORE A\*)**
 - **Hengzhe Zhang**, et al. "RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression." *ICLR*, 2025. **(Spotlight, CORE A\*)**
-- **Hengzhe Zhang**, et al. "A General Feature-Informed Crossover for Two-Stage Feature Selection in Symbolic Regression." *IEEE CEC*, 2025. **(CORE B)**
+- **Hengzhe Zhang**, Qi Chen, Bing Xue, Lean Yu, Wolfgang Banzhaf, and Mengjie Zhang. "Adaptive Protection for Evolutionary Feature Construction in Symbolic Regression with Application to Credit Classification." *PPSN*, 2026. **(CORE A)**
+- **Hengzhe Zhang**, Qi Chen, Bing Xue, Wolfgang Banzhaf, and Mengjie Zhang. "Benchmarking Zero-Shot LLM-Generated Parent Selection in Genetic Programming for Symbolic Regression." *PPSN*, 2026. **(CORE A)**
 - **Hengzhe Zhang**, et al. "Micro-Step Time-Series Regression: Insights from System Identification Using Symbolic Regression." *EuroGP*, 2025. **(CORE B)**
+- **Hengzhe Zhang**, et al. "A General Feature-Informed Crossover for Two-Stage Feature Selection in Symbolic Regression." *IEEE CEC*, 2025. **(CORE B)**
 - **Hengzhe Zhang**, et al. "P-Mixup: Improving Generalization Performance of Evolutionary Feature Construction with Pessimistic Vicinal Risk Minimization." *PPSN*, 2024. **(CORE A)**
 - **Hengzhe Zhang**, et al. "Bias-Variance Decomposition: An Effective Tool to Improve Generalization of Genetic Programming-based Evolutionary Feature Construction for Regression." *GECCO*, 2024. **(CORE A)**
 - **Hengzhe Zhang**, et al. "Improving Generalization of Evolutionary Feature Construction with Minimal Complexity Knee Points in Regression." *EuroGP*, 2024. **(CORE B)**
