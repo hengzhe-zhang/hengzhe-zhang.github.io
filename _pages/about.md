@@ -22,11 +22,11 @@ redirect_from:
 
 Hi, I am **Hengzhe Zhang**. I am currently a Postdoctoral Research Fellow in Artificial Intelligence at the [Evolutionary Computation Research Group (ECRG)](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome), [School of Engineering and Computer Science](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science), Victoria University of Wellington. I obtained my Ph.D. in Artificial Intelligence from Victoria University of Wellington in 2025 under the supervision of Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en) and Prof. [Bing Xue](https://scholar.google.com/citations?user=RILgdb4AAAAJ&hl=en). My research mainly focuses on **Interpretable Machine Learning, Explainable AI, and AI for Business/Healthcare**, with contributions in:
 
-+ **Interpretable & Explainable AI**: I develop transparent, human-readable AI models grounded in symbolic regression and automated feature engineering, with publications in top venues including ICML, ICLR (Spotlight), and IEEE TEVC (ABS/AJG 4 ×6 as first author).
++ **Interpretable & Explainable AI**: I develop transparent, human-readable AI models grounded in symbolic regression and automated feature engineering, with publications in top venues including ICML, ICLR (Spotlight), and IEEE TEVC (ABS/AJG 4 ×7 as first author).
 + **Automated Machine Learning**: I design evolutionary and LLM-based methods for automated feature construction and ensemble learning, maintaining open-source tools with 150+ community stars ([Evolutionary Forest](https://github.com/zhenlingcn/EvolutionaryForest)).
 + **AI for Business/Healthcare**: I have applied interpretable ML to financial services and healthcare, developing auditable decision support systems for business analytics and operations.
 
-张恒哲，现为新西兰惠灵顿维多利亚大学人工智能博士后研究员，2025年获人工智能博士学位。研究方向为可解释机器学习、可解释人工智能与商业/医疗健康智能，在 ICML、ICLR Spotlight、IEEE TEVC（ABS/AJG 4，第一作者×6）等期刊与会议发表多篇论文，并维护 150+ stars 的开源项目 Evolutionary Forest。
+张恒哲，现为新西兰惠灵顿维多利亚大学人工智能博士后研究员，2025年获人工智能博士学位。研究方向为可解释机器学习、可解释人工智能与商业/医疗健康智能，在 ICML、ICLR Spotlight、IEEE TEVC（ABS/AJG 4，第一作者×7）等期刊与会议发表多篇论文，并维护 150+ stars 的开源项目 Evolutionary Forest。
 
 # 🔥 News
 
@@ -43,6 +43,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **Selected Publications**
 
 - `ICML'26` Contrastive Symbolic Regression: Aligned Representations, Adaptive Prediction, and Diverse Ensembles, **Hengzhe Zhang**, et al.
+- `IEEE TEVC'26` LLM-Meta-SR: In-Context Learning for Evolving Selection Operators in Symbolic Regression, **Hengzhe Zhang**, et al. **(ABS/AJG 4, IF: 12)**
 - `PPSN'26` Adaptive Protection for Evolutionary Feature Construction in Symbolic Regression with Application to Credit Classification, **Hengzhe Zhang**, Qi Chen, Bing Xue, Lean Yu, Wolfgang Banzhaf, Mengjie Zhang **(CORE A)**
 - `PPSN'26` Benchmarking Zero-Shot LLM-Generated Parent Selection in Genetic Programming for Symbolic Regression, **Hengzhe Zhang**, Qi Chen, Bing Xue, Wolfgang Banzhaf, Mengjie Zhang **(CORE A)**
 - `ICLR'25 Spotlight` [RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression](https://openreview.net/), **Hengzhe Zhang**, et al.
