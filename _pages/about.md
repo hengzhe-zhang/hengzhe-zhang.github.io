@@ -30,7 +30,7 @@ Hi, I am **Hengzhe Zhang**. I am currently a Postdoctoral Research Fellow in Art
 
 # 🔥 News
 
-- *2026.06*: &nbsp;One ICML'26 paper on contrastive symbolic regression has been accepted.
+- *2026.05*: &nbsp;One ICML'26 paper on contrastive symbolic regression has been accepted.
 - *2026.06*: &nbsp;Two PPSN'26 papers on symbolic regression and genetic programming have been accepted.
 - *2026.02*: &nbsp;One AAAI'26 paper on pathology VLMs has been accepted (co-first author).
 - *2025.09*: &nbsp;Started as Postdoctoral Research Fellow at Victoria University of Wellington.
