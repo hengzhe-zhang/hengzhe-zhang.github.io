@@ -35,12 +35,6 @@ Hi, I am **Hengzhe Zhang**. I am currently a Postdoctoral Research Fellow in Art
 - *2026.02*: &nbsp;One AAAI'26 paper on pathology VLMs has been accepted (co-first author).
 - *2025.09*: &nbsp;Started as Postdoctoral Research Fellow at Victoria University of Wellington.
 - *2025.05*: &nbsp;One ICLR'25 paper has been accepted as **Spotlight** (RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression).
-- *2025.04*: &nbsp;Two IEEE TEVC papers on evolutionary feature construction have been accepted.
-- *2024.07*: &nbsp;Won **First Prize** at the GECCO Interpretable Control Competition.
-- *2024.07*: &nbsp;Two GECCO'24 papers on evolutionary feature construction have been accepted.
-- *2023.07*: &nbsp;Won **First Prize** at the GECCO Interpretable Symbolic Regression Competition.
-- *2022.05*: &nbsp;Honorable Mention at CVPR NAS Performance Prediction Track (4th out of 48).
-- *2022.02*: &nbsp;One SWEVO paper (PS-Tree) has been accepted.
 
 # 📝 Publications
 
