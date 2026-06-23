@@ -20,13 +20,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Hengzhe Zhang**. I am currently a Postdoctoral Research Fellow in Artificial Intelligence at the [Evolutionary Computation Research Group (ECRG)](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome), [School of Engineering and Computer Science](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science), Victoria University of Wellington. I obtained my Ph.D. in Artificial Intelligence from Victoria University of Wellington in 2025 under the supervision of Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en) and Prof. [Bing Xue](https://scholar.google.com/citations?user=RILgdb4AAAAJ&hl=en). My research mainly focuses on **Interpretable Machine Learning, Explainable AI, and AI for Business**, with contributions in:
+Hi, I am **Hengzhe Zhang**. I am currently a Postdoctoral Research Fellow in Artificial Intelligence at the [Evolutionary Computation Research Group (ECRG)](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome), [School of Engineering and Computer Science](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science), Victoria University of Wellington. I obtained my Ph.D. in Artificial Intelligence from Victoria University of Wellington in 2025 under the supervision of Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en) and Prof. [Bing Xue](https://scholar.google.com/citations?user=RILgdb4AAAAJ&hl=en). My research mainly focuses on **Interpretable Machine Learning, Explainable AI, and AI for Business/Healthcare**, with contributions in:
 
 + **Interpretable & Explainable AI**: I develop transparent, human-readable AI models grounded in symbolic regression and automated feature engineering, with publications in top venues including ICML, ICLR (Spotlight), and IEEE TEVC (ABS/AJG 4 ×6 as first author).
 + **Automated Machine Learning**: I design evolutionary and LLM-based methods for automated feature construction and ensemble learning, maintaining open-source tools with 150+ community stars ([Evolutionary Forest](https://github.com/zhenlingcn/EvolutionaryForest)).
-+ **AI for Business**: I have applied interpretable ML to financial services and healthcare, developing auditable decision support systems for business analytics and operations.
++ **AI for Business/Healthcare**: I have applied interpretable ML to financial services and healthcare, developing auditable decision support systems for business analytics and operations.
 
-张恒哲，现为新西兰惠灵顿维多利亚大学人工智能博士后研究员，2025年获人工智能博士学位。研究方向为可解释机器学习、可解释人工智能与商业智能，在 ICML、ICLR Spotlight、IEEE TEVC（ABS/AJG 4，第一作者×6）等期刊与会议发表多篇论文，并维护 150+ stars 的开源项目 Evolutionary Forest。
+张恒哲，现为新西兰惠灵顿维多利亚大学人工智能博士后研究员，2025年获人工智能博士学位。研究方向为可解释机器学习、可解释人工智能与商业/医疗健康智能，在 ICML、ICLR Spotlight、IEEE TEVC（ABS/AJG 4，第一作者×6）等期刊与会议发表多篇论文，并维护 150+ stars 的开源项目 Evolutionary Forest。
 
 # 🔥 News
 
@@ -68,6 +68,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 - **Hengzhe Zhang**, et al. "LAS-GP: Harnessing Large Semantic Libraries for Evolutionary Feature Construction in Symbolic Regression." *IEEE Transactions on Evolutionary Computation*, 2025. **(IF: 12, ABS/AJG 4)**
 - **Hengzhe Zhang**, et al. "Enhancing Generalization in Evolutionary Feature Construction for Symbolic Regression through Vicinal Jensen Gap Minimization." *IEEE Transactions on Evolutionary Computation*, 2025. **(IF: 12, ABS/AJG 4)**
 - Hongbo Zhao, **Hengzhe Zhang**, et al. "SRLinear: Lightweight Long-Term Time Series Forecasting via Symbolic Regression." *IEEE Transactions on Artificial Intelligence*, 2025.
+- **Hengzhe Zhang**, et al. "Adaptive complexity knee point selection in multi-objective genetic programming for improving generalization of evolutionary feature construction in regression." *Genetic Programming and Evolvable Machines*, 26.2 (2025): 28. **(IF: 1.7)**
 - **Hengzhe Zhang**, et al. "Modular multi-tree genetic programming for evolutionary feature construction for regression." *IEEE Transactions on Evolutionary Computation*, 2024. **(IF: 12, ABS/AJG 4)**
 - **Hengzhe Zhang**, et al. "A semantic-based hoist mutation operator for evolutionary feature construction in regression." *IEEE Transactions on Evolutionary Computation*, 2024. **(IF: 12, ABS/AJG 4)**
 - **Hengzhe Zhang**, et al. "A geometric semantic macro-crossover operator for evolutionary feature construction in regression." *Genetic Programming and Evolvable Machines*, 25.1 (2024): 2. **(IF: 1.7)**
