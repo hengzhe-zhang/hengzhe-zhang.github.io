@@ -7,53 +7,33 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Artificial Intelligence, Victoria University of Wellington, 2022 – 2025
+* M.Sc. in Computer Science, East China Normal University, 2019 – 2022
+* B.Sc. in Software Engineering, Xiangtan University, 2015 – 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2025 – Present: Postdoctoral Research Fellow in Artificial Intelligence, Victoria University of Wellington
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Interpretable Machine Learning
+* Explainable AI
+* Automated Machine Learning
+* Symbolic Regression & Evolutionary Feature Construction
+* AI for Business
 
-Publications
+Open-source projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* [Evolutionary Forest](https://github.com/zhenlingcn/EvolutionaryForest) — 150+ stars
+* [PS-Tree](https://github.com/hengzhe-zhang/PS-Tree) — 30+ stars
+* [scikit-obliquetree](https://github.com/hengzhe-zhang/scikit-obliquetree) — 15+ stars
+
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* English — IELTS 7.0 (L7, R7.5, W6, S7)
+* Mandarin — Native speaker
+
+See [Publications](/publications/) and [Honours/Awards](/honours-awards/) for full lists.

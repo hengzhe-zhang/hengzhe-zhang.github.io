@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Honours/Awards"
-    url: /honours-awards/    
+    url: /honours-awards/
+
+  - title: "CV"
+    url: /cv/
         
   - title: "Blog Posts"
     url: /year-archive/

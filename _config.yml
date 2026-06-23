@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hengzhe Zhang / PhD Candidate"
+title                    : "Hengzhe Zhang / Postdoctoral Research Fellow"
 title_separator          : "-"
 name                     : &name "Hengzhe Zhang"
-description              : &description "personal description"
+description              : &description "Postdoctoral Research Fellow in Artificial Intelligence at Victoria University of Wellington. Research in interpretable machine learning, explainable AI, and automated machine learning."
 url                      : https://hengzhe-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hengzhe-zhang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hengzhe Zhang"
   avatar           : "profile.png"
-  bio              : "PhD Candidate, Victoria University of Wellington"
+  bio              : "Postdoctoral Research Fellow in Artificial Intelligence, Victoria University of Wellington"
   location         : "Wellington"
-  employer         :
+  employer         : "Victoria University of Wellington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hYyeZMUAAAAJ&hl=en"
-  email            :
+  email            : "hengzhe.zhang@ecs.vuw.ac.nz"
   researchgate     : "https://www.researchgate.net/profile/Hengzhe-Zhang"
   uri              :
   bitbucket        :
