@@ -20,21 +20,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Hengzhe Zhang**. I am currently a Postdoctoral Research Fellow in Artificial Intelligence at the [Evolutionary Computation Research Group (ECRG)](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome), [School of Engineering and Computer Science](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science), Victoria University of Wellington. I obtained my Ph.D. in Artificial Intelligence from Victoria University of Wellington in 2025 under the supervision of Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en) and Prof. [Bing Xue](https://scholar.google.com/citations?user=RILgdb4AAAAJ&hl=en). My research mainly focuses on **Interpretable Machine Learning, Explainable AI, and AI for Business/Health**, with contributions in:
+Hi, I am **Hengzhe Zhang**. I am currently a Postdoctoral Research Fellow in Artificial Intelligence at the [Evolutionary Computation Research Group (ECRG)](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome), [School of Engineering and Computer Science](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science), Victoria University of Wellington. I obtained my Ph.D. in Artificial Intelligence from Victoria University of Wellington in 2025 under the supervision of Prof. [Mengjie Zhang](https://scholar.google.co.nz/citations?user=hLvGrrkAAAAJ&hl=en) and Prof. [Bing Xue](https://scholar.google.com/citations?user=RILgdb4AAAAJ&hl=en). My research mainly focuses on **Interpretable Machine Learning, Explainable AI, and AI for Business**, with contributions in:
 
 + **Interpretable & Explainable AI**: I develop transparent, human-readable AI models grounded in symbolic regression and automated feature engineering, with publications in top venues including ICML, ICLR (Spotlight), and IEEE TEVC (ABS/AJG 4 ×6 as first author).
 + **Automated Machine Learning**: I design evolutionary and LLM-based methods for automated feature construction and ensemble learning, maintaining open-source tools with 150+ community stars ([Evolutionary Forest](https://github.com/zhenlingcn/EvolutionaryForest)).
-+ **AI for Business/Health**: I have applied interpretable ML to financial services and healthcare, developing auditable decision support systems for business analytics, clinical workflows, and operations.
++ **AI for Business**: I have applied interpretable ML to financial services and healthcare, developing auditable decision support systems for business analytics and operations.
 
-张恒哲，现为新西兰惠灵顿维多利亚大学人工智能博士后研究员，2025年获人工智能博士学位。研究方向为可解释机器学习、可解释人工智能与商业/健康智能，在 ICML、ICLR Spotlight、IEEE TEVC（ABS/AJG 4，第一作者×6）等期刊与会议发表多篇论文，并维护 150+ stars 的开源项目 Evolutionary Forest。
+张恒哲，现为新西兰惠灵顿维多利亚大学人工智能博士后研究员，2025年获人工智能博士学位。研究方向为可解释机器学习、可解释人工智能与商业智能，在 ICML、ICLR Spotlight、IEEE TEVC（ABS/AJG 4，第一作者×6）等期刊与会议发表多篇论文，并维护 150+ stars 的开源项目 Evolutionary Forest。
 
 # 🔥 News
 
 - *2026.06*: &nbsp;One ICML'26 paper on contrastive symbolic regression has been accepted.
 - *2026.02*: &nbsp;One AAAI'26 paper on pathology VLMs has been accepted (co-first author).
-- *2026.02*: &nbsp;One PPSN'26 paper on sharpness-aware minimization for evolutionary feature construction has been accepted.
 - *2025.09*: &nbsp;Started as Postdoctoral Research Fellow at Victoria University of Wellington.
 - *2025.05*: &nbsp;One ICLR'25 paper has been accepted as **Spotlight** (RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression).
+- *2025.04*: &nbsp;Two IEEE TEVC papers on evolutionary feature construction have been accepted.
+- *2024.07*: &nbsp;Won **First Prize** at the GECCO Interpretable Control Competition.
+- *2024.07*: &nbsp;Two GECCO'24 papers on evolutionary feature construction have been accepted.
+- *2023.07*: &nbsp;Won **First Prize** at the GECCO Interpretable Symbolic Regression Competition.
+- *2022.05*: &nbsp;Honorable Mention at CVPR NAS Performance Prediction Track (4th out of 48).
+- *2022.02*: &nbsp;One SWEVO paper (PS-Tree) has been accepted.
 
 # 📝 Publications
 
@@ -43,9 +48,8 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **Selected Publications**
 
 - `ICML'26` Contrastive Symbolic Regression: Aligned Representations, Adaptive Prediction, and Diverse Ensembles, **Hengzhe Zhang**, et al.
-- `AAAI'26` Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning, Wenchuan Zhang, Jingru Guo, **Hengzhe Zhang** (co-first author), et al.
-- `PPSN'26` Sharpness-Aware Minimization for Evolutionary Feature Construction in Regression, **Hengzhe Zhang**, et al. **(CORE A)**
 - `ICLR'25 Spotlight` [RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression](https://openreview.net/), **Hengzhe Zhang**, et al.
+- `AAAI'26` Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning, Wenchuan Zhang, Jingru Guo, **Hengzhe Zhang** (co-first author), et al.
 - `IEEE TEVC'25` LAS-GP: Harnessing Large Semantic Libraries for Evolutionary Feature Construction in Symbolic Regression, **Hengzhe Zhang**, et al. **(ABS/AJG 4, IF: 12)**
 - `IEEE TEVC'25` Enhancing Generalization in Evolutionary Feature Construction for Symbolic Regression through Vicinal Jensen Gap Minimization, **Hengzhe Zhang**, et al. **(ABS/AJG 4, IF: 12)**
 - `IEEE TEVC'24` Modular multi-tree genetic programming for evolutionary feature construction for regression, **Hengzhe Zhang**, et al. **(ABS/AJG 4, IF: 12)**
@@ -53,7 +57,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 - `SWEVO'22` [PS-Tree: A Piecewise Symbolic Regression Tree](https://www.sciencedirect.com/science/article/pii/S2210650222000335), **Hengzhe Zhang**, Aimin Zhou, Hong Qian, Hu Zhang **(IF: 8.2)**
 - `IEEE TEVC'21` [An Evolutionary Forest for Regression](https://ieeexplore.ieee.org/document/9656554), **Hengzhe Zhang**, Aimin Zhou, Hu Zhang **(ABS/AJG 4, IF: 12)**
 - `GECCO'24` Bias-Variance Decomposition: An Effective Tool to Improve Generalization of Genetic Programming-based Evolutionary Feature Construction for Regression, **Hengzhe Zhang**, et al. **(CORE A)**
-- `GECCO'25` Call for Action: Towards the Next Generation of Symbolic Regression Benchmark, Guilherme S. Imai Aldeia, **Hengzhe Zhang**, et al.
 - `PPSN'24` P-Mixup: Improving Generalization Performance of Evolutionary Feature Construction with Pessimistic Vicinal Risk Minimization, **Hengzhe Zhang**, et al. **(CORE A)**
 
 **Refereed Journal Articles**
@@ -75,12 +78,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 - **Hengzhe Zhang**, et al. "Contrastive Symbolic Regression: Aligned Representations, Adaptive Prediction, and Diverse Ensembles." *International Conference on Machine Learning (ICML)*, 2026. **(CORE A\*)**
 - Wenchuan Zhang, Jingru Guo, **Hengzhe Zhang** (co-first author), et al. "Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning." *AAAI*, 2026. **(CORE A\*)**
-- **Hengzhe Zhang**, et al. "Sharpness-Aware Minimization for Evolutionary Feature Construction in Regression." *International Conference on Parallel Problem Solving from Nature (PPSN)*, 2026. **(CORE A)**
 - **Hengzhe Zhang**, et al. "RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression." *ICLR*, 2025. **(Spotlight, CORE A\*)**
 - **Hengzhe Zhang**, et al. "A General Feature-Informed Crossover for Two-Stage Feature Selection in Symbolic Regression." *IEEE CEC*, 2025. **(CORE B)**
 - **Hengzhe Zhang**, et al. "Micro-Step Time-Series Regression: Insights from System Identification Using Symbolic Regression." *EuroGP*, 2025. **(CORE B)**
-- Guilherme S. Imai Aldeia, **Hengzhe Zhang**, et al. "Call for Action: Towards the Next Generation of Symbolic Regression Benchmark." *GECCO Companion*, 2025.
-- **Hengzhe Zhang**, Qi Chen, Bing Xue, Y. Wang, Aimin Zhou, and Mengjie Zhang. "EvoFeat: Genetic Programming-Based Feature Engineering Approach to Tabular Data Classification." *Genetic and Evolutionary Computation*, Springer Nature Singapore, 2025.
 - **Hengzhe Zhang**, et al. "P-Mixup: Improving Generalization Performance of Evolutionary Feature Construction with Pessimistic Vicinal Risk Minimization." *PPSN*, 2024. **(CORE A)**
 - **Hengzhe Zhang**, et al. "Bias-Variance Decomposition: An Effective Tool to Improve Generalization of Genetic Programming-based Evolutionary Feature Construction for Regression." *GECCO*, 2024. **(CORE A)**
 - **Hengzhe Zhang**, et al. "Improving Generalization of Evolutionary Feature Construction with Minimal Complexity Knee Points in Regression." *EuroGP*, 2024. **(CORE B)**
